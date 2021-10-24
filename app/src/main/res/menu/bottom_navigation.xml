@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/page_home"
+        android:enabled="true"
+        android:icon="@drawable/home_selector"
+        android:title="" />
+    <item
+        android:id="@+id/page_tab_two"
+        android:enabled="true"
+        android:icon="@drawable/tab_two_selector"
+        android:title="" />
+    <item
+        android:id="@+id/page_add"
+        android:enabled="true"
+        android:icon="@drawable/add_selector"
+        android:title="" />
+    <item
+        android:id="@+id/page_video"
+        android:enabled="true"
+        android:icon="@drawable/video_selector"
+        android:title="" />
+    <item
+        android:id="@+id/page_profile"
+        android:enabled="true"
+        android:icon="@drawable/profile_selector"
+        android:title="" />
+</menu>

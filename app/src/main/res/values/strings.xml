@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Qfonapp</string>
+    <string name="about_us">About Us</string>
+    <string name="privacy_policy">Privay Policy</string>
+    <string name="my_downloads">My Downloads</string>
+    <string name="change_password">Change Password</string>
+    <string name="discover_people">Discover People</string>
+    <string name="logout">Logout</string>
+    <string name="no_data_found">No data found</string>
+    <string name="no_internet_connection">No Internet Connection</string>
+    <string name="retry">Retry</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="second_tab">Second Tab</string>
+    <string name="third_tab">Third Tab</string>
+    <string name="forth_tab">Forth Tab</string>
+    <string name="fifth_tab">Fifth Tab</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+</resources>
